@@ -8,8 +8,8 @@ Tests--
 also we can have separate Infranstructure layer,--
 etc.--
 But for brevity here we have only one project,--
-that's why Migrations folder is automatically placed in top-level folder--
-and not in DataLayer folder,--
+that's why Migrations folder is automatically placed in top-level folder--\
+and not in DataLayer folder,--\
 and we have a lot of dependencies in this one and only project.--
 
 Scripts:--
