@@ -1,5 +1,8 @@
 # ZhyglovsCurrencyExchange
 
+Use api/v1/currencies/sync-aka-create-mocked-data to fill mocked data.
+
+
 In general it is better to have at least three projects: \
 WebApi (Controllers, responses)\
 Core (Business logic, dtos)\
