@@ -2,6 +2,18 @@
 
 Use api/v1/currencies/sync-aka-create-mocked-data to fill mocked data.
 
+Use api/v1/currencies/convert?amount=10&fromCurrencyCode=AUD&toCurrencyCode=AMD to test convertion or similar.
+
+Codes:
+AED
+AFN
+ALL
+AMD
+ANG
+AOA
+ARS
+AUD
+
 
 In general it is better to have at least three projects: \
 WebApi (Controllers, responses)\
