@@ -10,9 +10,9 @@ etc.\
 But for brevity here we have only one project,\
 that's why Migrations folder is automatically placed in top-level folder\
 and not in DataLayer folder,\
-and we have a lot of dependencies in this one and only project.\
+and we have a lot of dependencies in this one and only project. \
 
 Scripts: \
 cd .\ZhyglovsCurrencyExchange\
 dotnet ef migrations add InitialCreate\
-dotnet ef database update\
+dotnet ef database update \
