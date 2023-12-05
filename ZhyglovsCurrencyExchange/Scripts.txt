@@ -1,0 +1,3 @@
+cd .\ZhyglovsCurrencyExchange
+dotnet ef migrations add InitialCreate
+dotnet ef database update
